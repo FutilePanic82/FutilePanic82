@@ -9,6 +9,6 @@
  -Spanish
  -English
 - 📫 How to reach me ...
-davidalfredo810@yahhoo.com.mx
+davidalfredo810@yahoo.com.mx
 
 
