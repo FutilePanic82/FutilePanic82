@@ -1,14 +1,15 @@
 -Hi, I’m @FutilePanic82
 -I’m interested in Videogames
--I’m currently learning cybersecurity
+-I’m currently learning embedded systems
 
 -Programming languages:
   -C/C++
   -Python
+  -Javascript
  -Languages:
  -Spanish
  -English
 - 📫 How to reach me ...
-davidalfredo810@yahoo.com.mx
+david.ramirez7093@alumnos.udg.mx
 
 
