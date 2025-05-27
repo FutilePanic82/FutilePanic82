@@ -9,6 +9,7 @@
  -Languages:
  -Spanish
  -English
+ -German
 - 📫 How to reach me ...
 david.ramirez7093@alumnos.udg.mx
 
